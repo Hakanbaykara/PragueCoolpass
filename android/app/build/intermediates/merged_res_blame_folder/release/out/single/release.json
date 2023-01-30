@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/drawable-mdpi_src_components_icons_museum.png.flat",
+        "source": "com.praguecoolpass.app-react-30:/drawable-mdpi/src_components_icons_museum.png"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/drawable-mdpi_src_components_icons_checkorange.png.flat",
+        "source": "com.praguecoolpass.app-react-30:/drawable-mdpi/src_components_icons_checkorange.png"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/drawable-mdpi_src_components_icons_pin.png.flat",
+        "source": "com.praguecoolpass.app-react-30:/drawable-mdpi/src_components_icons_pin.png"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/drawable-mdpi_src_components_icons_love2.png.flat",
+        "source": "com.praguecoolpass.app-react-30:/drawable-mdpi/src_components_icons_love2.png"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/drawable-xhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.praguecoolpass.app-react-30:/drawable-xhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/drawable-mdpi_src_components_icons_love.png.flat",
+        "source": "com.praguecoolpass.app-react-30:/drawable-mdpi/src_components_icons_love.png"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/drawable-mdpi_src_components_icons_love_black.png.flat",
+        "source": "com.praguecoolpass.app-react-30:/drawable-mdpi/src_components_icons_love_black.png"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/drawable-mdpi_src_screens_drawermenu_english.png.flat",
+        "source": "com.praguecoolpass.app-react-30:/drawable-mdpi/src_screens_drawermenu_english.png"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/drawable-mdpi_src_components_homescreen_att.jpg.flat",
+        "source": "com.praguecoolpass.app-react-30:/drawable-mdpi/src_components_homescreen_att.jpg"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/drawable-mdpi_src_components_icons_check.png.flat",
+        "source": "com.praguecoolpass.app-react-30:/drawable-mdpi/src_components_icons_check.png"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.praguecoolpass.app-main-36:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/drawable-hdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.praguecoolpass.app-react-30:/drawable-hdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.praguecoolpass.app-main-36:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.praguecoolpass.app-react-30:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.praguecoolpass.app-react-30:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.praguecoolpass.app-main-36:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/drawable-mdpi_src_components_icons_filter.png.flat",
+        "source": "com.praguecoolpass.app-react-30:/drawable-mdpi/src_components_icons_filter.png"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/drawable-mdpi_src_components_icons_museum_orange.png.flat",
+        "source": "com.praguecoolpass.app-react-30:/drawable-mdpi/src_components_icons_museum_orange.png"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.praguecoolpass.app-main-36:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.praguecoolpass.app-main-36:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/drawable-mdpi_src_components_icons_search.png.flat",
+        "source": "com.praguecoolpass.app-react-30:/drawable-mdpi/src_components_icons_search.png"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.praguecoolpass.app-react-30:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/drawable-mdpi_src_components_homescreen_buy.jpg.flat",
+        "source": "com.praguecoolpass.app-react-30:/drawable-mdpi/src_components_homescreen_buy.jpg"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/drawable-mdpi_src_components_homescreen_alert.jpg.flat",
+        "source": "com.praguecoolpass.app-react-30:/drawable-mdpi/src_components_homescreen_alert.jpg"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/drawable-xxxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.praguecoolpass.app-react-30:/drawable-xxxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/drawable-mdpi_src_components_icons_like.png.flat",
+        "source": "com.praguecoolpass.app-react-30:/drawable-mdpi/src_components_icons_like.png"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/drawable-xxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.praguecoolpass.app-react-30:/drawable-xxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/drawable-mdpi_src_components_icons_close.png.flat",
+        "source": "com.praguecoolpass.app-react-30:/drawable-mdpi/src_components_icons_close.png"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/drawable-mdpi_src_components_homescreen_coolpa.jpg.flat",
+        "source": "com.praguecoolpass.app-react-30:/drawable-mdpi/src_components_homescreen_coolpa.jpg"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.praguecoolpass.app-react-30:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/drawable-mdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "com.praguecoolpass.app-react-30:/drawable-mdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.praguecoolpass.app-main-36:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/drawable-mdpi_src_components_icons_left.png.flat",
+        "source": "com.praguecoolpass.app-react-30:/drawable-mdpi/src_components_icons_left.png"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.praguecoolpass.app-main-36:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.praguecoolpass.app-main-36:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/drawable-mdpi_src_screens_drawermenu_francias.png.flat",
+        "source": "com.praguecoolpass.app-react-30:/drawable-mdpi/src_screens_drawermenu_francias.png"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/drawable-mdpi_src_screens_drawermenu_deutch.png.flat",
+        "source": "com.praguecoolpass.app-react-30:/drawable-mdpi/src_screens_drawermenu_deutch.png"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.praguecoolpass.app-react-30:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.praguecoolpass.app-main-36:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.praguecoolpass.app-main-36:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.praguecoolpass.app-main-36:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.praguecoolpass.app-merged_res-35:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.praguecoolpass.app-react-30:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    }
+]

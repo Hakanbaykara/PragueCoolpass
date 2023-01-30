@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/desktop.ini",
+      "sha1": "8c406323326c89af9d7d0c20a6a971f6333cb589"
+    },
+    {
+      "path": "assets/fonts/Marbletextextrabold.otf",
+      "sha1": "6ac408e97fdf647bc05280d683e7c48f06aabcc9"
+    }
+  ]
+}
